@@ -1,0 +1,11 @@
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\bin\Release\RFLToolsApp.exe.config
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\bin\Release\RFLToolsApp.exe
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\bin\Release\RFLToolsApp.pdb
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\bin\Release\RFLToolsApp.xml
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.Resources.resources
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.RFLTools.resources
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.vbproj.GenerateResource.Cache
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.vbproj.CoreCompileInputs.cache
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.exe
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.xml
+C:\Users\robert.livingston\source\repos\RFLToolsApp\RFLToolsApp\obj\Release\RFLToolsApp.pdb
